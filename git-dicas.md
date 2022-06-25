@@ -1,0 +1,1 @@
+link para guia do markdown:https://www.markdownguide.org/getting-started/
