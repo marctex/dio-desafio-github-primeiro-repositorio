@@ -1,1 +1,1 @@
-console.log("inicio de tudo");
+var currentNumber = document.getElementById("currentNumber");
